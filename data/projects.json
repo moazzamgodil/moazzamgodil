@@ -1,0 +1,730 @@
+{
+  "projects": [
+    {
+      "title": "CarbonKerma",
+      "subTitle": "A blockchain-based web application",
+      "image": "/portfolio/carbonkerma.png",
+      "description": "CarbonKerma is the first carbon credit trading platform in the world that guarantees measured, verified, regulated, high-quality carbon credits. Where each ton of carbon dioxide (CO2) is represented as a digital token, CKT, on a one-for-one basis, ensures the integrity and traceability of the traded carbon",
+      "tech": [
+        "React",
+        "Bootstrap",
+        "Node.js",
+        "Express",
+        "PostgreSQL",
+        "Web3.js",
+        "Solidity",
+        "IPFS"
+      ],
+      "demo": "https://dashboard.carbonkerma.com"
+    },
+    {
+      "title": "Token Launcher",
+      "subTitle": "Decentralized App for Token Management",
+      "image": "/portfolio/token_launcher.png",
+      "description": "Easily launch and manage your token with Token Launcher. Deploy, enable trading, create, lock, or burn liquidity, adjust fees, and more—all in one streamlined platform.",
+      "tech": [
+        "React",
+        "Node.js",
+        "Express",
+        "PostgreSQL",
+        "Web3.js",
+        "Solidity",
+        "Bootstrap"
+      ],
+      "demo": "https://wagyuapp.netlify.app"
+    },
+    {
+      "title": "Fomo Party",
+      "subTitle": "Decentralized Token Platform",
+      "image": "/portfolio/fomo_party.png",
+      "description": "A platform that allows users to create and launch tokens instantly on Ethereum. It simplifies token deployment, enabling seamless trading with built-in liquidity and automated market-making features.",
+      "tech": [
+        "Next.js",
+        "Node.js",
+        "Express",
+        "PostgreSQL",
+        "TypeScript",
+        "Web3.js",
+        "Ethers.js",
+        "Solidity",
+        "IPFS",
+        "Tailwind CSS"
+      ],
+      "demo": "https://fomo.party"
+    }
+  ],
+  "moreProjects": [
+    {
+      "title": "LW3 CRM",
+      "subTitle": "CRM Platform",
+      "description": "CRM platform hosted at crm.lw3.io. Added as a live product entry with URL-based metadata.",
+      "tech": [
+        "CRM",
+        "Web App"
+      ],
+      "demo": "https://crm.lw3.io"
+    },
+    {
+      "title": "Zquence App",
+      "subTitle": "AI Web Application",
+      "description": "Web application hosted at app.zquence.ai. Added as a live product entry with URL-based metadata.",
+      "tech": [
+        "Web App",
+        "AI"
+      ],
+      "demo": "https://app.zquence.ai"
+    },
+    {
+      "title": "GenexAI",
+      "subTitle": "Automated Evidence Review Platform",
+      "description": "GenexAI is an AI platform for automated evidence review, helping teams accelerate abstract screening, full-text evaluation, and structured data extraction.",
+      "tech": [
+        "AI",
+        "NLP",
+        "Evidence Review Automation",
+        "Data Extraction"
+      ],
+      "demo": "https://genexai.com"
+    },
+    {
+      "title": "Xaply AI",
+      "subTitle": "AI Executive Assistant Platform",
+      "description": "Xaply provides AI and human-assisted executive scheduling automation across email, WhatsApp, and calendar workflows.",
+      "tech": [
+        "AI Agents",
+        "Gmail Automation",
+        "WhatsApp Automation",
+        "Calendar Scheduling"
+      ],
+      "demo": "https://xaply.ai"
+    },
+    {
+      "title": "Web3 BigNumber",
+      "subTitle": "Node Package",
+      "description": "Web3 BigNumber is an extensive library for managing large number for Javascript and Node.js. Useful for web3 development.",
+      "tech": [
+        "Node.js",
+        "TypeScript",
+        "JavaScript"
+      ],
+      "demo": "https://www.npmjs.com/package/web3-bignumber"
+    },
+    {
+      "title": "Web3 Errors Extract",
+      "subTitle": "Node Package",
+      "description": "An npm package used to retrieve and display error messages from EVM-based web3 transactions.",
+      "tech": [
+        "Node.js",
+        "Web3.js",
+        "TypeScript",
+        "JavaScript"
+      ],
+      "demo": "https://www.npmjs.com/package/web3-errors-extract"
+    },
+    {
+      "title": "Web3Sol",
+      "subTitle": "Web Application",
+      "image": "/portfolio/web3sol.png",
+      "description": "This web app lets users interact with smart contracts deployed on EVM-based blockchains. Users only need to provide the ABI and the contract address to call functions from these smart contracts. Will add more features in future updates.",
+      "tech": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Web3.js",
+        "ReOwn"
+      ],
+      "demo": "https://web3sol.surge.sh"
+    },
+    {
+      "title": "AI Crypto Bot",
+      "subTitle": "Telegram Bot",
+      "description": "Trade, create, and manage crypto effortlessly with an AI-powered Telegram bot. Automate transactions, analyze markets, and stay ahead.",
+      "tech": [
+        "Node.js",
+        "OpenAI",
+        "Telegram Bot API",
+        "Viem",
+        "typeScript",
+        "JavaScript"
+      ],
+      "demo": "https://t.me/mgcryptoaibot"
+    },
+    {
+      "title": "Drift Token",
+      "subTitle": "Decentralized Web App",
+      "image": "/portfolio/drift_token.png",
+      "description": "Drift is a Web3 game studio with benefits for all. Gamers use DRIFT for NFT skins and custom features, while stakers earn and boost liquidity from game revenue.",
+      "tech": [
+        "React",
+        "Cross-Chain",
+        "Bootstrap",
+        "JavaScript",
+        "Web3.js",
+        "Solidity",
+        "Chainlink"
+      ],
+      "demo": "https://drifttoken.io"
+    },
+    {
+      "title": "ExpertTexting Plugin",
+      "subTitle": "WordPress Plugin",
+      "image": "/portfolio/experttexting_wordpress_plugin.png",
+      "description": "The official ExpertTexting plugin for WordPress. With this plugin, you can add the ability of sending SMS & notifications to your WordPress newsletter subscribers or users, and keep them updated on the latest posts and updates.",
+      "tech": [
+        "PHP",
+        "WordPress",
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "demo": "https://wordpress.com/plugins/experttexting-official"
+    }
+  ],
+  "archive": [
+    {
+      "year": 2026,
+      "title": "LW3 CRM",
+      "subTitle": "CRM Platform",
+      "description": "CRM platform hosted at crm.lw3.io. Added as a live product entry with URL-based metadata.",
+      "tech": [
+        "CRM",
+        "Web App"
+      ],
+      "demo": "https://crm.lw3.io"
+    },
+    {
+      "year": 2026,
+      "title": "Zquence App",
+      "subTitle": "AI Web Application",
+      "description": "Web application hosted at app.zquence.ai. Added as a live product entry with URL-based metadata.",
+      "tech": [
+        "Web App",
+        "AI"
+      ],
+      "demo": "https://app.zquence.ai"
+    },
+    {
+      "year": 2026,
+      "title": "GenexAI",
+      "subTitle": "Automated Evidence Review Platform",
+      "description": "GenexAI is an AI platform for automated evidence review, helping teams accelerate abstract screening, full-text evaluation, and structured data extraction.",
+      "tech": [
+        "AI",
+        "NLP",
+        "Evidence Review Automation",
+        "Data Extraction"
+      ],
+      "demo": "https://genexai.com"
+    },
+    {
+      "year": 2026,
+      "title": "Xaply AI",
+      "subTitle": "AI Executive Assistant Platform",
+      "description": "Xaply provides AI and human-assisted executive scheduling automation across email, WhatsApp, and calendar workflows.",
+      "tech": [
+        "AI Agents",
+        "Gmail Automation",
+        "WhatsApp Automation",
+        "Calendar Scheduling"
+      ],
+      "demo": "https://xaply.ai"
+    },
+    {
+      "year": 2025,
+      "title": "My Portfolio",
+      "subTitle": "Website",
+      "image": "/portfolio/my_portfolio.png",
+      "description": "My complete portfolio website.",
+      "tech": [
+        "React",
+        "JavaScript",
+        "typeScript"
+      ],
+      "demo": "https://moazzamgodil.github.io/moazzamgodil"
+    },
+    {
+      "year": 2025,
+      "title": "Based Turbo (Backend and Smart Contract)",
+      "subTitle": "Web3 Enabled Game",
+      "image": "/portfolio/based_turbo.png",
+      "description": "A blockchain racing game where players race for crypto prizes in a fair, skill-based competition. With browser-friendly gameplay and customizable vehicles, anyone can aim to become The Drift King and win big rewards.",
+      "tech": [
+        "Node.js",
+        "Soldiity",
+        "JavaScript",
+        "WalletConnect",
+        "Web3.js",
+        "IPFS"
+      ],
+      "demo": "https://play.basedturbo.io"
+    },
+    {
+      "year": 2025,
+      "title": "AI Crypto Bot",
+      "subTitle": "Telegram Bot",
+      "description": "Trade, create, and manage crypto effortlessly with an AI-powered Telegram bot. Automate transactions, analyze markets, and stay ahead.",
+      "tech": [
+        "Node.js",
+        "OpenAI",
+        "Telegram Bot API",
+        "Viem",
+        "typeScript",
+        "JavaScript"
+      ],
+      "demo": "https://t.me/mgcryptoaibot"
+    },
+    {
+      "year": 2024,
+      "title": "Web3 BigNumber",
+      "subTitle": "Node Package",
+      "description": "Web3 BigNumber is an extensive library for managing large number for Javascript and Node.js. Useful for web3 development.",
+      "tech": [
+        "Node.js",
+        "TypeScript",
+        "JavaScript"
+      ],
+      "demo": "https://www.npmjs.com/package/web3-bignumber",
+      "github": "https://github.com/moazzamgodil/web3-bignumber"
+    },
+    {
+      "year": 2024,
+      "title": "Web3 Errors Extract",
+      "subTitle": "Node Package",
+      "description": "An npm package used to retrieve and display error messages from EVM-based web3 transactions.",
+      "tech": [
+        "Node.js",
+        "Web3.js",
+        "TypeScript",
+        "JavaScript"
+      ],
+      "demo": "https://www.npmjs.com/package/web3-errors-extract",
+      "github": "https://github.com/moazzamgodil/web3-errors-extract"
+    },
+    {
+      "year": 2024,
+      "title": "Randomize Files",
+      "subTitle": "Node Package",
+      "description": "Randomize Files is a tool designed to shuffle and randomize files, especially useful for creating unique NFTs (Non-Fungible Tokens). It helps ensure that each file or digital asset is distinct and unique, making it ideal for artists and developers working on NFT projects.",
+      "tech": [
+        "Node.js",
+        "TypeScript",
+        "JavaScript"
+      ],
+      "demo": "https://www.npmjs.com/package/randomize-files",
+      "github": "https://github.com/moazzamgodil/randomize-files"
+    },
+    {
+      "year": 2024,
+      "title": "Token Launcher",
+      "subTitle": "Decentralized App for Token Management",
+      "image": "/portfolio/token_launcher.png",
+      "description": "Easily launch and manage your token with Token Launcher. Deploy, enable trading, create, lock, or burn liquidity, adjust fees, and more—all in one streamlined platform.",
+      "tech": [
+        "React",
+        "Node.js",
+        "Express",
+        "PostgreSQL",
+        "Web3.js",
+        "Solidity",
+        "Bootstrap"
+      ],
+      "demo": "https://wagyuapp.netlify.app"
+    },
+    {
+      "year": 2024,
+      "title": "Fomo Party",
+      "subTitle": "Decentralized Token Platform",
+      "image": "/portfolio/fomo_party.png",
+      "description": "A platform that allows users to create and launch tokens instantly on Ethereum. It simplifies token deployment, enabling seamless trading with built-in liquidity and automated market-making features.",
+      "tech": [
+        "Next.js",
+        "Node.js",
+        "Express",
+        "PostgreSQL",
+        "TypeScript",
+        "Web3.js",
+        "Ethers.js",
+        "Solidity",
+        "IPFS",
+        "Tailwind CSS"
+      ],
+      "demo": "https://fomo.party"
+    },
+    {
+      "year": 2024,
+      "title": "Web3Sol",
+      "subTitle": "Web Application",
+      "image": "/portfolio/web3sol.png",
+      "description": "This web app lets users interact with smart contracts deployed on EVM-based blockchains. Users only need to provide the ABI and the contract address to call functions from these smart contracts. Will add more features in future updates.",
+      "tech": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Web3.js",
+        "ReOwn"
+      ],
+      "demo": "https://web3sol.surge.sh"
+    },
+    {
+      "year": 2024,
+      "title": "Payout Pursuit (Backend and Smart Contract)",
+      "subTitle": "Web3 Enabled Game",
+      "image": "/portfolio/payout_pursuit.png",
+      "description": "A multichain GameFi racing game where players compete for crypto prizes in fair, skill-based races. With browser-friendly gameplay and customizable vehicles, everyone has a shot at becoming The Drift King and claiming top rewards.",
+      "tech": [
+        "Node.js",
+        "Soldiity",
+        "JavaScript",
+        "WalletConnect",
+        "Web3.js",
+        "IPFS"
+      ],
+      "demo": "https://play.payoutpursuit.com"
+    },
+    {
+      "year": 2023,
+      "title": "GLB Viewer",
+      "subTitle": "Web Application",
+      "description": "A tool that lets you view and interact with 3D models saved in the GLB format on your computer or device.",
+      "tech": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "demo": "https://glbviewer.surge.sh"
+    },
+    {
+      "year": 2023,
+      "title": "Drift Token",
+      "subTitle": "Decentralized Web App",
+      "image": "/portfolio/drift_token.png",
+      "description": "Drift is a Web3 game studio with benefits for all. Gamers use DRIFT for NFT skins and custom features, while stakers earn and boost liquidity from game revenue.",
+      "tech": [
+        "React",
+        "Cross-Chain",
+        "Bootstrap",
+        "JavaScript",
+        "Web3.js",
+        "Solidity",
+        "Chainlink"
+      ],
+      "demo": "https://drifttoken.io"
+    },
+    {
+      "year": 2023,
+      "title": "EVM-Based Chain Bridge",
+      "subTitle": "Smart Contract",
+      "description": "",
+      "tech": [
+        "Web3.js",
+        "Solidity",
+        "JavaScript"
+      ],
+      "github": "https://github.com/moazzamgodil/evm-blockchain-bridge"
+    },
+    {
+      "year": 2023,
+      "title": "CarbonKerma",
+      "subTitle": "A blockchain-based web application",
+      "image": "/portfolio/carbonkerma.png",
+      "description": "CarbonKerma is the first carbon credit trading platform in the world that guarantees measured, verified, regulated, high-quality carbon credits. Where each ton of carbon dioxide (CO2) is represented as a digital token, CKT, on a one-for-one basis, ensures the integrity and traceability of the traded carbon",
+      "tech": [
+        "React",
+        "Bootstrap",
+        "Node.js",
+        "Express",
+        "PostgreSQL",
+        "Web3.js",
+        "Solidity",
+        "IPFS"
+      ],
+      "demo": "https://dashboard.carbonkerma.com"
+    },
+    {
+      "year": 2022,
+      "title": "Solar Unlimited USA",
+      "subTitle": "Website",
+      "image": "/portfolio/solar_unlimited_usa.png",
+      "description": "",
+      "tech": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Bootstrap"
+      ],
+      "demo": "https://solarproject.netlify.app"
+    },
+    {
+      "year": 2022,
+      "title": "Legendary OTs (dApp)",
+      "subTitle": "Decentralized Web App",
+      "image": "/portfolio/legendary_ots_dapp.png",
+      "description": "",
+      "tech": [
+        "React",
+        "CSS",
+        "Web3.js",
+        "Solidity",
+        "JavaScript"
+      ],
+      "demo": "https://project-by-mg.web.app/legendary-ots/mint"
+    },
+    {
+      "year": 2022,
+      "title": "Legendary OTs",
+      "subTitle": "Website",
+      "image": "/portfolio/legendary_ots.png",
+      "description": "",
+      "tech": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Bootstrap"
+      ],
+      "demo": "https://project-by-mg.web.app/legendary-ots"
+    },
+    {
+      "year": 2022,
+      "title": "Pocket Pals (dApp)",
+      "subTitle": "Decentralized Web App",
+      "image": "/portfolio/pocket_pals_dapp.png",
+      "description": "",
+      "tech": [
+        "React",
+        "CSS",
+        "Web3.js",
+        "Solidity",
+        "JavaScript"
+      ],
+      "demo": "https://pocketpals.club/paws/mint"
+    },
+    {
+      "year": 2022,
+      "title": "Pocket Pals",
+      "subTitle": "Website",
+      "image": "/portfolio/kidthereum_pocket_pals.png",
+      "description": "",
+      "tech": [
+        "PHP",
+        "CSS",
+        "WordPress",
+        "JavaScript"
+      ],
+      "demo": "https://pocketpals.club"
+    },
+    {
+      "year": 2022,
+      "title": "MetaJewelz (dApp)",
+      "subTitle": "Decentralized Web App",
+      "image": "/portfolio/metajewelz_dapp.png",
+      "description": "",
+      "tech": [
+        "React",
+        "CSS",
+        "Web3.js",
+        "Solidity",
+        "JavaScript"
+      ],
+      "demo": "https://metajewelzmint.netlify.app"
+    },
+    {
+      "year": 2022,
+      "title": "MetaJewelz",
+      "subTitle": "Website",
+      "image": "/portfolio/metajewelz.png",
+      "description": "",
+      "tech": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Bootstrap"
+      ],
+      "demo": "https://metajewelz.web.app"
+    },
+    {
+      "year": 2022,
+      "title": "Picture Day (dApp)",
+      "subTitle": "Decentralized Web App",
+      "image": "/portfolio/picture_day.png",
+      "description": "",
+      "tech": [
+        "React",
+        "CSS",
+        "Web3.js",
+        "Solidity",
+        "JavaScript"
+      ],
+      "demo": "https://project-pictureday.netlify.app"
+    },
+    {
+      "year": 2022,
+      "title": "Catboy Token",
+      "subTitle": "Website",
+      "image": "/portfolio/catboy_token.png",
+      "description": "Catboy brings a fresh and playful twist to the world of blockchain, offering the first AI interaction with NFTs.",
+      "tech": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "demo": "https://project-catboys.web.app"
+    },
+    {
+      "year": 2022,
+      "title": "Moon Hunter (dApp)",
+      "subTitle": "Decentralized Web App",
+      "image": "/portfolio/moon_hunter_dapp.png",
+      "description": "",
+      "tech": [
+        "React",
+        "CSS",
+        "Web3.js",
+        "Solidity",
+        "JavaScript"
+      ],
+      "demo": "https://moonhunterdapp.netlify.app/"
+    },
+    {
+      "year": 2022,
+      "title": "Servco",
+      "subTitle": "Website",
+      "image": "/portfolio/servco.png",
+      "description": "",
+      "tech": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "demo": "https://project-servco.web.app"
+    },
+    {
+      "year": 2021,
+      "title": "ExpertTexting Plugin",
+      "subTitle": "WordPress Plugin",
+      "image": "/portfolio/experttexting_wordpress_plugin.png",
+      "description": "The official ExpertTexting plugin for WordPress. With this plugin, you can add the ability of sending SMS & notifications to your WordPress newsletter subscribers or users, and keep them updated on the latest posts and updates.",
+      "tech": [
+        "PHP",
+        "WordPress",
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "demo": "https://wordpress.com/plugins/experttexting-official"
+    },
+    {
+      "year": 2021,
+      "title": "Message Segment Calculator",
+      "subTitle": "Web Application",
+      "image": "/portfolio/message_segment_calculator.png",
+      "description": "A tool that helps you determine how many segments your text message will use when sent. It considers both regular text and special characters (Unicode), which can affect the length and number of segments.",
+      "tech": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "demo": "https://moazzamgodil.github.io/Text-Unicode-Messaging-Segment-Calculator",
+      "github": "https://github.com/moazzamgodil/Text-Unicode-Messaging-Segment-Calculator"
+    },
+    {
+      "year": 2021,
+      "title": "Expense Tracker",
+      "subTitle": "Web Application",
+      "image": "/portfolio/expense_tracker.png",
+      "description": "",
+      "tech": [
+        "React",
+        "CSS",
+        "JavaScript",
+        "Bootstrap"
+      ],
+      "demo": "https://moazzamgodil.github.io/expense-tracker",
+      "github": "https://github.com/moazzamgodil/expense-tracker"
+    },
+    {
+      "year": 2020,
+      "title": "VR Xperts",
+      "subTitle": "Website",
+      "image": "/portfolio/vr_xperts.png",
+      "description": "",
+      "tech": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Bootstrap"
+      ],
+      "demo": "https://moazzamgodil.github.io/vr-xperts-headset-website"
+    },
+    {
+      "year": 2020,
+      "title": "Buy Sell Now (OLX Clone)",
+      "subTitle": "Web Application",
+      "image": "/portfolio/buy_sell_now.png",
+      "description": "",
+      "tech": [
+        "React",
+        "JavaScript",
+        "Bootstrap",
+        "Firebase"
+      ],
+      "demo": "https://buysell-now.web.app"
+    },
+    {
+      "year": 2020,
+      "title": "Chat App",
+      "subTitle": "Web Application",
+      "description": "",
+      "tech": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Firebase"
+      ],
+      "demo": "https://moazzamwebmobile.web.app/Assignment12-ChatApp",
+      "github": "https://github.com/moazzamgodil/ChatApp-JS-Firebase"
+    },
+    {
+      "year": 2020,
+      "title": "Versatile Calculator",
+      "subTitle": "Web Application",
+      "image": "/portfolio/versatile_calculator.png",
+      "description": "",
+      "tech": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Bootstrap"
+      ],
+      "demo": "https://moazzamgodil.github.io/versatile-calculator-app/"
+    },
+    {
+      "year": 2020,
+      "title": "Personal Website with Guestbook",
+      "subTitle": "Web Application",
+      "image": "/portfolio/guestbook_personal.png",
+      "description": "",
+      "tech": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "PHP",
+        "MySQL"
+      ],
+      "github": "https://github.com/moazzamgodil/php-guestbook-personal-website"
+    },
+    {
+      "year": 2020,
+      "title": "AI Chatbot",
+      "subTitle": "Web Application",
+      "image": "/portfolio/ai_chatbot.png",
+      "description": "",
+      "tech": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Python"
+      ],
+      "github": "https://github.com/moazzamgodil/Chatbot-AI-Project"
+    }
+  ]
+}
