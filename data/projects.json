@@ -55,22 +55,50 @@
   ],
   "moreProjects": [
     {
+      "title": "Network Share",
+      "subTitle": "File Sharing Web Application",
+      "description": "A web application for sharing files quickly and securely through a simple browser-based workflow.",
+      "tech": [
+        "React.js",
+        "Node.js",
+        "Firebase",
+        "Express",
+        "MongoDB",
+        "Tailwind CSS",
+        "TypeScript"
+      ],
+      "demo": "https://network-share.vercel.app/"
+    },
+    {
       "title": "LW3 CRM",
       "subTitle": "CRM Platform",
-      "description": "CRM platform hosted at crm.lw3.io. Added as a live product entry with URL-based metadata.",
+      "description": "LW3 CRM is a full-stack customer relationship management system focused on outreach, investor/mandate workflows, LP universe management, and compliant email-driven engagement.",
       "tech": [
-        "CRM",
-        "Web App"
+        "React.js",
+        "Node.js",
+        "Nest.js",
+        "MongoDB",
+        "Tailwind CSS",
+        "TypeScript",
+        "Gmail API",
+        "Google Calendar API",
+        "Microsoft Graph API",
+        "OpenAI",
+        "AWS"
       ],
       "demo": "https://crm.lw3.io"
     },
     {
       "title": "Zquence App",
-      "subTitle": "AI Web Application",
-      "description": "Web application hosted at app.zquence.ai. Added as a live product entry with URL-based metadata.",
+      "subTitle": "Secure Transaction Platform",
+      "description": "Zquence is an all-in-one platform designed to help users complete secure transactions with confidence. It combines document management, identity verification, and escrow services into a single solution.",
       "tech": [
-        "Web App",
-        "AI"
+        "React.js",
+        "Node.js",
+        "MongoDB",
+        "Tailwind CSS",
+        "TypeScript",
+        "AWS"
       ],
       "demo": "https://app.zquence.ai"
     },
@@ -79,10 +107,13 @@
       "subTitle": "Automated Evidence Review Platform",
       "description": "GenexAI is an AI platform for automated evidence review, helping teams accelerate abstract screening, full-text evaluation, and structured data extraction.",
       "tech": [
-        "AI",
-        "NLP",
-        "Evidence Review Automation",
-        "Data Extraction"
+        "React.js",
+        "Node.js",
+        "MongoDB",
+        "Tailwind CSS",
+        "TypeScript",
+        "AWS",
+        "Firebase"
       ],
       "demo": "https://genexai.com"
     },
@@ -91,10 +122,15 @@
       "subTitle": "AI Executive Assistant Platform",
       "description": "Xaply provides AI and human-assisted executive scheduling automation across email, WhatsApp, and calendar workflows.",
       "tech": [
-        "AI Agents",
-        "Gmail Automation",
-        "WhatsApp Automation",
-        "Calendar Scheduling"
+        "React.js",
+        "Python",
+        "Node.js",
+        "GCP",
+        "Twilio",
+        "OpenAI",
+        "Gmail API",
+        "Google Calendar API",
+        "Firebase"
       ],
       "demo": "https://xaply.ai"
     },
@@ -185,21 +221,35 @@
       "year": 2026,
       "title": "LW3 CRM",
       "subTitle": "CRM Platform",
-      "description": "CRM platform hosted at crm.lw3.io. Added as a live product entry with URL-based metadata.",
+      "description": "LW3 CRM is a full-stack customer relationship management system focused on outreach, investor/mandate workflows, LP universe management, and compliant email-driven engagement.",
       "tech": [
-        "CRM",
-        "Web App"
+        "React.js",
+        "Node.js",
+        "Nest.js",
+        "MongoDB",
+        "Tailwind CSS",
+        "TypeScript",
+        "Gmail API",
+        "Google Calendar API",
+        "Microsoft Graph API",
+        "OpenAI",
+        "AWS"
       ],
       "demo": "https://crm.lw3.io"
     },
     {
       "year": 2026,
       "title": "Zquence App",
-      "subTitle": "AI Web Application",
-      "description": "Web application hosted at app.zquence.ai. Added as a live product entry with URL-based metadata.",
+      "subTitle": "Secure Transaction Platform",
+      "description": "Zquence is an all-in-one platform designed to help users complete secure transactions with confidence. It combines document management, identity verification, and escrow services into a single solution.",
       "tech": [
-        "Web App",
-        "AI"
+        "React.js",
+        "Node.js",
+        "Nest.js",
+        "MongoDB",
+        "Tailwind CSS",
+        "TypeScript",
+        "AWS"
       ],
       "demo": "https://app.zquence.ai"
     },
@@ -209,10 +259,16 @@
       "subTitle": "Automated Evidence Review Platform",
       "description": "GenexAI is an AI platform for automated evidence review, helping teams accelerate abstract screening, full-text evaluation, and structured data extraction.",
       "tech": [
+        "React",
+        "Node.js",
+        "Nest.js",
+        "MongoDB",
+        "Tailwind CSS",
+        "TypeScript",
         "AI",
         "NLP",
-        "Evidence Review Automation",
-        "Data Extraction"
+        "AWS",
+        "Firebase"
       ],
       "demo": "https://genexai.com"
     },
@@ -222,10 +278,15 @@
       "subTitle": "AI Executive Assistant Platform",
       "description": "Xaply provides AI and human-assisted executive scheduling automation across email, WhatsApp, and calendar workflows.",
       "tech": [
-        "AI Agents",
-        "Gmail Automation",
-        "WhatsApp Automation",
-        "Calendar Scheduling"
+        "React.js",
+        "Python",
+        "Node.js",
+        "GCP",
+        "Twilio",
+        "OpenAI",
+        "Gmail API",
+        "Google Calendar API",
+        "Firebase"
       ],
       "demo": "https://xaply.ai"
     },
