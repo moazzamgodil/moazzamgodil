@@ -219,6 +219,22 @@
   "archive": [
     {
       "year": 2026,
+      "title": "Network Share",
+      "subTitle": "File Sharing Web Application",
+      "description": "A web application for sharing files quickly and securely through a simple browser-based workflow.",
+      "tech": [
+        "React.js",
+        "Node.js",
+        "Firebase",
+        "Express",
+        "MongoDB",
+        "Tailwind CSS",
+        "TypeScript"
+      ],
+      "demo": "https://network-share.vercel.app/"
+    },
+    {
+      "year": 2026,
       "title": "LW3 CRM",
       "subTitle": "CRM Platform",
       "description": "LW3 CRM is a full-stack customer relationship management system focused on outreach, investor/mandate workflows, LP universe management, and compliant email-driven engagement.",
