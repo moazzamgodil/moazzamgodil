@@ -55,6 +55,17 @@
   ],
   "moreProjects": [
     {
+      "title": "Flow Engine Core",
+      "subTitle": "Node Package",
+      "description": "A lightweight, security-focused, event-driven workflow engine for Node.js and browsers.",
+      "tech": [
+        "Node.js",
+        "TypeScript",
+        "JavaScript"
+      ],
+      "demo": "https://www.npmjs.com/package/flow-engine-core"
+    },
+    {
       "title": "Network Share",
       "subTitle": "File Sharing Web Application",
       "description": "A web application for sharing files quickly and securely through a simple browser-based workflow.",
@@ -86,7 +97,7 @@
         "OpenAI",
         "AWS"
       ],
-      "demo": "https://crm.lw3.io"
+      "demo": "https://atlas.lw3.io"
     },
     {
       "title": "Zquence App",
@@ -217,6 +228,30 @@
     }
   ],
   "archive": [
+    {
+      "year": 2026,
+      "title": "Docsprout",
+      "subTitle": "Node Package",
+      "description": "Docsprout is a CLI that adds a documentation site and admin editor to an existing project using Markdown files.",
+      "tech": [
+        "Node.js",
+        "TypeScript",
+        "JavaScript"
+      ],
+      "demo": "https://www.npmjs.com/package/docsprout"
+    },
+    {
+      "year": 2026,
+      "title": "Flow Engine Core",
+      "subTitle": "Node Package",
+      "description": "A lightweight, security-focused, event-driven workflow engine for Node.js and browsers.",
+      "tech": [
+        "Node.js",
+        "TypeScript",
+        "JavaScript"
+      ],
+      "demo": "https://www.npmjs.com/package/flow-engine-core"
+    },
     {
       "year": 2026,
       "title": "Network Share",
