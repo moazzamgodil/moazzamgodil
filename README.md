@@ -1,7 +1,7 @@
 # Hi there, I'm Moazzam Ahmed Godil 👋
 
 ## About Me
-I'm a Senior Full-Stack Engineer, Blockchain Engineer, and former CTO with 10+ years building production web applications and 5+ years designing and deploying smart contracts and Web3 products. I currently build full-stack, blockchain, and AI-powered features for a remote, UK-based product team, and previously served as **CTO**, where I built and led a cross-functional engineering and design team of 15+ across Web2, Web3, and AI products. I hold a BS in Computer Engineering from Sir Syed University of Engineering & Technology.
+I'm a Senior Full-Stack Engineer, Blockchain Engineer, AI specialist and former CTO with 10+ years building production web applications and 5+ years designing and deploying smart contracts and Web3 products. I currently build full-stack, blockchain, and AI-powered features for a remote, UK-based product team, and previously served as **CTO**, where I built and led a cross-functional engineering and design team of 15+ across Web2, Web3, and AI products. I hold a BS in Computer Engineering from Sir Syed University of Engineering & Technology.
 
 - 🔭 I'm currently building full-stack and AI-powered features for a product team, and shipping open-source developer tools on the side.
 - 🌱 I'm deepening my AI engineering skills (LLM agents, RAG pipelines, fine-tuning) and exploring new blockchain protocols.
@@ -57,6 +57,8 @@ An AI-powered locust detection system on Raspberry Pi and Python, with a compani
 ### 🛠️ Open-Source Developer Tools
 - **Docsprout** — a CLI that adds a documentation site and admin content editor to an existing project using Markdown files.
 - **Flow Engine Core** — a lightweight, security-focused, event-driven workflow engine for Node.js and the browser.
+- **Web3 BigNumber** - an extensive library for managing large number for Javascript and Node.js. Useful for web3 development.
+- **Web3 Errors Extract** - a TypeScript implementation of the Ethereum JSON RPC API to get/extract EVM-based web3 transaction revert messages or any other errors.
 
 ## GitHub Stats
 ![Moazzam's GitHub stats](https://github-stats-extended.vercel.app/api?username=moazzamgodil&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=dark)
